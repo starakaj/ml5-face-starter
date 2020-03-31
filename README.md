@@ -1,4 +1,4 @@
-Starter Express App on Glitch
+ml5 Face Tracker Scaffold
 ===========================
 
 This app is a very small scaffold to get you started using ml5's face tracker. It will work with webpack, but will require an internet connection to run since it loads ml5 from a CDN.
